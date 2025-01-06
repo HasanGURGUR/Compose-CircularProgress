@@ -2,6 +2,10 @@
 
 A customizable circular indicator built using Jetpack Compose. This component allows you to display progress visually with smooth animations. 
 
+
+![Circular Indicator Preview](assets/circular-indicator-preview.gif)
+
+
 ## Features
 
 - Animated circular progress with customizable sweep angle.
