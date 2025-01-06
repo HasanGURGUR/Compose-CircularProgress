@@ -3,7 +3,7 @@
 A customizable circular indicator built using Jetpack Compose. This component allows you to display progress visually with smooth animations. 
 
 
-![Circular Indicator Preview](assets/circular-indicator-preview.gif)
+![Description of the GIF](assets/v.gif)
 
 
 ## Features
