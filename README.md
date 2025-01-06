@@ -6,6 +6,8 @@ A customizable circular indicator built using Jetpack Compose. This component al
 ![Description of the GIF](assets/v.gif)
 
 
+
+
 ## Features
 
 - Animated circular progress with customizable sweep angle.
